@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{E3616BA3-1C80-4F19-A945-D16DF08179F7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IssueTracker/Controllers/IssueController.cs">
+    <Files>
+      <File FileName="IssueTracker/Models/Issue.cs" Line="16" Column="19" />
+      <File FileName="IssueTracker/Models/IssueDbContext.cs" Line="16" Column="114" />
+      <File FileName="IssueTracker/Controllers/IssueController.cs" Line="66" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IssueTracker PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
